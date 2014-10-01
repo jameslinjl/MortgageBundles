@@ -20,14 +20,14 @@ Robust error and edge case testing was not done due to other assignments being d
 
 Commands:
 
-Merge <bundle ID 1> <bundle ID2> … <bundle ID N>
+$ Merge <bundle ID 1> <bundle ID2> … <bundle ID N>
 
-Split <bundle ID> into <N>
+$ Split <bundle ID> into <N>
 
-Parent <bundle ID>
+$ Parent <bundle ID>
 
-Sellable <bundle ID>
+$ Sellable <bundle ID>
 
-Derived <child bundle ID> <ancestor bundle ID>
+$ Derived <child bundle ID> <ancestor bundle ID>
 
-Quit
+$ Quit
