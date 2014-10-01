@@ -18,10 +18,16 @@ The Tester contains the main method and essentially opens a shell with which to 
 
 Robust error and edge case testing was not done due to other assignments being due this same weekend. One notable difference in the my implementation was that Merge is NOT delimited using commas, rather only using whitespace. 
 
-Commands
+Commands:
+
 Merge <bundle ID 1> <bundle ID2> … <bundle ID N>
+
 Split <bundle ID> into <N>
+
 Parent <bundle ID>
+
 Sellable <bundle ID>
+
 Derived <child bundle ID> <ancestor bundle ID>
+
 Quit
